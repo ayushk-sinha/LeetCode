@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ayushk-sinha/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/ayushk-sinha/LeetCode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ayushk-sinha/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/ayushk-sinha/LeetCode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 ## String
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/ayushk-sinha/LeetCode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ayushk-sinha/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/ayushk-sinha/LeetCode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 ## Matrix
 |  |
 | ------- |
@@ -38,8 +40,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/ayushk-sinha/LeetCode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/ayushk-sinha/LeetCode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 ## Greedy
 |  |
 | ------- |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/ayushk-sinha/LeetCode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/ayushk-sinha/LeetCode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 <!---LeetCode Topics End-->
