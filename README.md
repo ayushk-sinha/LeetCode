@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ayushk-sinha/LeetCode/tree/master/0020-valid-parentheses) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ayushk-sinha/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 ## Dynamic Programming
 |  |
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayushk-sinha/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ayushk-sinha/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
