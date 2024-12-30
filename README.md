@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ayushk-sinha/LeetCode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayushk-sinha/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0792-binary-search](https://github.com/ayushk-sinha/LeetCode/tree/master/0792-binary-search) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/ayushk-sinha/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ayushk-sinha/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ayushk-sinha/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/ayushk-sinha/LeetCode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/ayushk-sinha/LeetCode/tree/master/0792-binary-search) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/ayushk-sinha/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ayushk-sinha/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ayushk-sinha/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
