@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ayushk-sinha/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/ayushk-sinha/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/ayushk-sinha/LeetCode/tree/master/0792-binary-search) |
+| [1025-minimum-cost-for-tickets](https://github.com/ayushk-sinha/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ayushk-sinha/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ayushk-sinha/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ayushk-sinha/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1025-minimum-cost-for-tickets](https://github.com/ayushk-sinha/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ayushk-sinha/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2562-count-ways-to-build-good-strings](https://github.com/ayushk-sinha/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 ## Binary Search
