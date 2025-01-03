@@ -1,23 +1,18 @@
 class Solution {
     public int waysToSplitArray(int[] nums) {
-        int n=nums.length;
-        long sumTotal=0;
-        long sumCurr=0;
-        int cnt=0;
-
-        // Calculate total sum
-        for(int i=0; i<n; i++){
-            sumTotal+=nums[i];
+        int ans = 0;
+        long[] prefixSum = new long[nums.length];
+        prefixSum[0] = nums[0];
+        for(int i = 1 ; i< nums.length; i++){
+            prefixSum[i] = prefixSum[i-1]+nums[i];
         }
-
-        // Check valid splits condition
-        for(int i=0; i<n-1; i++){
-            sumCurr+=nums[i];
-            if(sumCurr >= sumTotal-sumCurr){
-                cnt++;
-            }
+        for(int  i = 0; i < nums.length-1; i++){
+           long leftsum = prefixSum[i];
+           long rightsum = prefixSum[nums.length-1] - leftsum;
+           
+           if(leftsum>=rightsum)
+           ans++;
         }
-
-        return cnt;
+        return ans;
     }
 }
