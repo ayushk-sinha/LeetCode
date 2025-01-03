@@ -16,3 +16,10 @@ class Solution {
         return ans;
     }
 }
+
+// Prefix Sum as long: To handle cases where the array contains large values that could result in overflow during summation, I changed prefixSum to long.
+// Correct Comparison Logic:
+// The leftSum is the prefix sum up to index i.
+// The rightSum is derived by subtracting leftSum from the total sum (prefixSum[n - 1]).
+// The split condition checks if leftSum >= rightSum.
+// Limit the Range of i: The loop runs from 0 to n - 2, as the array must split into two non-empty subarrays.
