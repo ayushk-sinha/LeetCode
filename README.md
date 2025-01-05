@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ayushk-sinha/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2358-number-of-ways-to-split-array](https://github.com/ayushk-sinha/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/ayushk-sinha/LeetCode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2465-shifting-letters-ii](https://github.com/ayushk-sinha/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ayushk-sinha/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ayushk-sinha/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/ayushk-sinha/LeetCode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ayushk-sinha/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ayushk-sinha/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ayushk-sinha/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2465-shifting-letters-ii](https://github.com/ayushk-sinha/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ayushk-sinha/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Dynamic Programming
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ayushk-sinha/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ayushk-sinha/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/ayushk-sinha/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/ayushk-sinha/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ayushk-sinha/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Design
 |  |
