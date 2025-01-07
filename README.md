@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/ayushk-sinha/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ayushk-sinha/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ayushk-sinha/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1524-string-matching-in-an-array](https://github.com/ayushk-sinha/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ayushk-sinha/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ayushk-sinha/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2358-number-of-ways-to-split-array](https://github.com/ayushk-sinha/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayushk-sinha/LeetCode/tree/master/0020-valid-parentheses) |
+| [1524-string-matching-in-an-array](https://github.com/ayushk-sinha/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ayushk-sinha/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ayushk-sinha/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ayushk-sinha/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ayushk-sinha/LeetCode/tree/master/0303-range-sum-query-immutable) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/ayushk-sinha/LeetCode/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
