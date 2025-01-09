@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ayushk-sinha/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/ayushk-sinha/LeetCode/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/ayushk-sinha/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/ayushk-sinha/LeetCode/tree/master/0792-binary-search) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ayushk-sinha/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -151,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ayushk-sinha/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ayushk-sinha/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
