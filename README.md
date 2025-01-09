@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayushk-sinha/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0372-super-pow](https://github.com/ayushk-sinha/LeetCode/tree/master/0372-super-pow) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/ayushk-sinha/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/ayushk-sinha/LeetCode/tree/master/0069-sqrtx) |
+| [0372-super-pow](https://github.com/ayushk-sinha/LeetCode/tree/master/0372-super-pow) |
 ## Recursion
 |  |
 | ------- |
