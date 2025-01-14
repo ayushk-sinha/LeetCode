@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/ayushk-sinha/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ayushk-sinha/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ayushk-sinha/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ayushk-sinha/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/ayushk-sinha/LeetCode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ayushk-sinha/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/ayushk-sinha/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ayushk-sinha/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/ayushk-sinha/LeetCode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ayushk-sinha/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/ayushk-sinha/LeetCode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ayushk-sinha/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Greedy
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ayushk-sinha/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ayushk-sinha/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ayushk-sinha/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ayushk-sinha/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Prefix Sum
 |  |
 | ------- |
