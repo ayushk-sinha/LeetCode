@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayushk-sinha/LeetCode/tree/master/0020-valid-parentheses) |
 | [0952-word-subsets](https://github.com/ayushk-sinha/LeetCode/tree/master/0952-word-subsets) |
+| [1250-longest-common-subsequence](https://github.com/ayushk-sinha/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1502-construct-k-palindrome-strings](https://github.com/ayushk-sinha/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/ayushk-sinha/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ayushk-sinha/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-minimum-cost-for-tickets](https://github.com/ayushk-sinha/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
+| [1250-longest-common-subsequence](https://github.com/ayushk-sinha/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ayushk-sinha/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2562-count-ways-to-build-good-strings](https://github.com/ayushk-sinha/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 ## Binary Search
