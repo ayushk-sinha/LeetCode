@@ -1,19 +1,20 @@
 class NumArray {
-    int prefixSum[] = null;
+    int [] prefixsum = null;
+
     public NumArray(int[] nums) {
-        prefixSum = new int[nums.length];
-        prefixSum[0] = nums[0];
-        for(int i = 1; i < nums.length; i++){
-            prefixSum[i] = nums[i]+prefixSum[i-1];
+        prefixsum = new int[nums.length];
+        prefixsum[0] = nums[0];
+        for (int i = 1; i < nums.length; i++) {
+            prefixsum[i] = prefixsum[i - 1] + nums[i];
         }
+
     }
-    
+
     public int sumRange(int left, int right) {
-        if(left == 0){
-            return prefixSum[right];
-        }
-        else{
-            return prefixSum[right] - prefixSum[left-1];
+        if (left == 0) {
+            return prefixsum[right];
+        } else {
+            return prefixsum[right] - prefixsum[left - 1];
         }
     }
 }
