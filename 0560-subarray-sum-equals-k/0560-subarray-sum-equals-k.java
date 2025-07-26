@@ -1,30 +1,19 @@
 class Solution {
     public int subarraySum(int[] nums, int k) {
-         if (nums == null || nums.length == 0) {
-            return 0; // Return 0 if the array is empty
-        }
+        int sum = 0;
+        int ans = 0;
+        HashMap<Integer,Integer> map = new HashMap<>();
+        map.put(0,1);
 
-        int currSum = 0;
-        int count = 0;
-        HashMap<Integer, Integer> prefixSumMap = new HashMap<>();
+        for(int i = 0; i < nums.length; i++){
+            sum+=nums[i];
+            if(map.containsKey(sum-k)){
+                ans += map.get(sum-k);
 
-        for (int i = 0; i < nums.length; i++) {
-            currSum += nums[i];
-
-            // Check if the current sum equals k
-            if (currSum == k) {
-                count++;
             }
-
-            // Check if (currSum - k) exists in the map
-            if (prefixSumMap.containsKey(currSum - k)) {
-                count += prefixSumMap.get(currSum - k);
-            }
-
-            // Update the map with the current sum
-            prefixSumMap.put(currSum, prefixSumMap.getOrDefault(currSum, 0) + 1);
+                map.put(sum,map.getOrDefault(sum,0)+1);
+            
         }
-
-        return count;
+        return ans;
     }
 }
