@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayushk-sinha/LeetCode/tree/master/0020-valid-parentheses) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/ayushk-sinha/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/ayushk-sinha/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ayushk-sinha/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/ayushk-sinha/LeetCode/tree/master/0268-missing-number) |
 | [0372-super-pow](https://github.com/ayushk-sinha/LeetCode/tree/master/0372-super-pow) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/ayushk-sinha/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -230,4 +232,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ayushk-sinha/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ayushk-sinha/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/ayushk-sinha/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 <!---LeetCode Topics End-->
