@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/ayushk-sinha/LeetCode/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/ayushk-sinha/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1250-longest-common-subsequence](https://github.com/ayushk-sinha/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ayushk-sinha/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ayushk-sinha/LeetCode/tree/master/0268-missing-number) |
 | [0372-super-pow](https://github.com/ayushk-sinha/LeetCode/tree/master/0372-super-pow) |
 | [0795-k-th-symbol-in-grammar](https://github.com/ayushk-sinha/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
+| [1013-fibonacci-number](https://github.com/ayushk-sinha/LeetCode/tree/master/1013-fibonacci-number) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/ayushk-sinha/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Recursion
 |  |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/ayushk-sinha/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/ayushk-sinha/LeetCode/tree/master/0050-powx-n) |
 | [0795-k-th-symbol-in-grammar](https://github.com/ayushk-sinha/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
+| [1013-fibonacci-number](https://github.com/ayushk-sinha/LeetCode/tree/master/1013-fibonacci-number) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -260,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ayushk-sinha/LeetCode/tree/master/0078-subsets) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/ayushk-sinha/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
