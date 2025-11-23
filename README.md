@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ayushk-sinha/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1524-string-matching-in-an-array](https://github.com/ayushk-sinha/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ayushk-sinha/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ayushk-sinha/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ayushk-sinha/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ayushk-sinha/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/ayushk-sinha/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0372-super-pow](https://github.com/ayushk-sinha/LeetCode/tree/master/0372-super-pow) |
 | [0795-k-th-symbol-in-grammar](https://github.com/ayushk-sinha/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/ayushk-sinha/LeetCode/tree/master/1013-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ayushk-sinha/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/ayushk-sinha/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Recursion
 |  |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ayushk-sinha/LeetCode/tree/master/0050-powx-n) |
 | [0795-k-th-symbol-in-grammar](https://github.com/ayushk-sinha/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/ayushk-sinha/LeetCode/tree/master/1013-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ayushk-sinha/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -267,4 +270,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/ayushk-sinha/LeetCode/tree/master/1013-fibonacci-number) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ayushk-sinha/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Simulation
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ayushk-sinha/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
