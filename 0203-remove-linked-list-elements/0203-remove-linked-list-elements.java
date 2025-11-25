@@ -10,12 +10,18 @@
  */
 class Solution {
     public ListNode removeElements(ListNode head, int val) {
-       // ListNode dummyHead
-        if(head == null){
+        // ListNode dummyHead
+        if (head == null) {
             return head;
         }
-        head.next = removeElements(head.next,val);
-        return head.val == val ? head.next : head;
+        head.next = removeElements(head.next, val);
+        ListNode result;
+        if (head.val == val) {
+            result = head.next;
+        } else {
+            result = head;
+        }
+        return result;
 
     }
 }
