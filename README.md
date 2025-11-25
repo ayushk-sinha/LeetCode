@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ayushk-sinha/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ayushk-sinha/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushk-sinha/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/ayushk-sinha/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/ayushk-sinha/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayushk-sinha/LeetCode/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/ayushk-sinha/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/ayushk-sinha/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/ayushk-sinha/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Bit Manipulation
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ayushk-sinha/LeetCode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/ayushk-sinha/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ayushk-sinha/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/ayushk-sinha/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0795-k-th-symbol-in-grammar](https://github.com/ayushk-sinha/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/ayushk-sinha/LeetCode/tree/master/1013-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ayushk-sinha/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/ayushk-sinha/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/ayushk-sinha/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ayushk-sinha/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/ayushk-sinha/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/ayushk-sinha/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Tree
 |  |
