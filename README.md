@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ayushk-sinha/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ayushk-sinha/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ayushk-sinha/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1929-concatenation-of-array](https://github.com/ayushk-sinha/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ayushk-sinha/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/ayushk-sinha/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/ayushk-sinha/LeetCode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ayushk-sinha/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1929-concatenation-of-array](https://github.com/ayushk-sinha/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Sliding Window
 |  |
 | ------- |
