@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ayushk-sinha/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/ayushk-sinha/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/ayushk-sinha/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0485-max-consecutive-ones](https://github.com/ayushk-sinha/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/ayushk-sinha/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushk-sinha/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ayushk-sinha/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
