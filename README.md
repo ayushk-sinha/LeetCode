@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/ayushk-sinha/LeetCode/tree/master/0087-scramble-string) |
 | [0392-is-subsequence](https://github.com/ayushk-sinha/LeetCode/tree/master/0392-is-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ayushk-sinha/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0887-super-egg-drop](https://github.com/ayushk-sinha/LeetCode/tree/master/0887-super-egg-drop) |
 | [1013-fibonacci-number](https://github.com/ayushk-sinha/LeetCode/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/ayushk-sinha/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1250-longest-common-subsequence](https://github.com/ayushk-sinha/LeetCode/tree/master/1250-longest-common-subsequence) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ayushk-sinha/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ayushk-sinha/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0792-binary-search](https://github.com/ayushk-sinha/LeetCode/tree/master/0792-binary-search) |
+| [0887-super-egg-drop](https://github.com/ayushk-sinha/LeetCode/tree/master/0887-super-egg-drop) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ayushk-sinha/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ayushk-sinha/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ayushk-sinha/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ayushk-sinha/LeetCode/tree/master/0268-missing-number) |
 | [0372-super-pow](https://github.com/ayushk-sinha/LeetCode/tree/master/0372-super-pow) |
 | [0795-k-th-symbol-in-grammar](https://github.com/ayushk-sinha/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
+| [0887-super-egg-drop](https://github.com/ayushk-sinha/LeetCode/tree/master/0887-super-egg-drop) |
 | [1013-fibonacci-number](https://github.com/ayushk-sinha/LeetCode/tree/master/1013-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ayushk-sinha/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/ayushk-sinha/LeetCode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
