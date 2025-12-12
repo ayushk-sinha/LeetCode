@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/ayushk-sinha/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ayushk-sinha/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ayushk-sinha/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/ayushk-sinha/LeetCode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [2562-count-ways-to-build-good-strings](https://github.com/ayushk-sinha/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 ## Binary Search
 |  |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0795-k-th-symbol-in-grammar](https://github.com/ayushk-sinha/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/ayushk-sinha/LeetCode/tree/master/1013-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ayushk-sinha/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/ayushk-sinha/LeetCode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/ayushk-sinha/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Recursion
 |  |
