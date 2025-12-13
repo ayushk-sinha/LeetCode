@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ayushk-sinha/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/ayushk-sinha/LeetCode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ayushk-sinha/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3606-coupon-code-validator](https://github.com/ayushk-sinha/LeetCode/tree/master/3606-coupon-code-validator) |
 ## String
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/ayushk-sinha/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ayushk-sinha/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ayushk-sinha/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3606-coupon-code-validator](https://github.com/ayushk-sinha/LeetCode/tree/master/3606-coupon-code-validator) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ayushk-sinha/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/ayushk-sinha/LeetCode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ayushk-sinha/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3606-coupon-code-validator](https://github.com/ayushk-sinha/LeetCode/tree/master/3606-coupon-code-validator) |
 ## Greedy
 |  |
 | ------- |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ayushk-sinha/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ayushk-sinha/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ayushk-sinha/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [3606-coupon-code-validator](https://github.com/ayushk-sinha/LeetCode/tree/master/3606-coupon-code-validator) |
 ## Divide and Conquer
 |  |
 | ------- |
