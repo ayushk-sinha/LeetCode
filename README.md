@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/ayushk-sinha/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/ayushk-sinha/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushk-sinha/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/ayushk-sinha/LeetCode/tree/master/0645-set-mismatch) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ayushk-sinha/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0792-binary-search](https://github.com/ayushk-sinha/LeetCode/tree/master/0792-binary-search) |
 | [0952-word-subsets](https://github.com/ayushk-sinha/LeetCode/tree/master/0952-word-subsets) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ayushk-sinha/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/ayushk-sinha/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushk-sinha/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/ayushk-sinha/LeetCode/tree/master/0645-set-mismatch) |
 | [0952-word-subsets](https://github.com/ayushk-sinha/LeetCode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/ayushk-sinha/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ayushk-sinha/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ayushk-sinha/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ayushk-sinha/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ayushk-sinha/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0645-set-mismatch](https://github.com/ayushk-sinha/LeetCode/tree/master/0645-set-mismatch) |
 | [3606-coupon-code-validator](https://github.com/ayushk-sinha/LeetCode/tree/master/3606-coupon-code-validator) |
 ## Divide and Conquer
 |  |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ayushk-sinha/LeetCode/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/ayushk-sinha/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ayushk-sinha/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/ayushk-sinha/LeetCode/tree/master/0645-set-mismatch) |
 | [0795-k-th-symbol-in-grammar](https://github.com/ayushk-sinha/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ayushk-sinha/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/ayushk-sinha/LeetCode/tree/master/2509-minimize-xor) |
