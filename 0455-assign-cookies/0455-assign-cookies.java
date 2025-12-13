@@ -8,9 +8,9 @@ class Solution {
         int n = s.length;
         while(r < m && l < n){
             if(g[r]<=s[l]){
-                r = r+1;
+                r++;
             }
-            l = l+1;
+            l++;
         }
         return r;
     }
