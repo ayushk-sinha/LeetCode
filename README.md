@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/ayushk-sinha/LeetCode/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/ayushk-sinha/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ayushk-sinha/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ayushk-sinha/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/ayushk-sinha/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ayushk-sinha/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1524-string-matching-in-an-array](https://github.com/ayushk-sinha/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ayushk-sinha/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/ayushk-sinha/LeetCode/tree/master/0645-set-mismatch) |
 | [0952-word-subsets](https://github.com/ayushk-sinha/LeetCode/tree/master/0952-word-subsets) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ayushk-sinha/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/ayushk-sinha/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ayushk-sinha/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/ayushk-sinha/LeetCode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ayushk-sinha/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ayushk-sinha/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/ayushk-sinha/LeetCode/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ayushk-sinha/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3606-coupon-code-validator](https://github.com/ayushk-sinha/LeetCode/tree/master/3606-coupon-code-validator) |
 ## Divide and Conquer
 |  |
@@ -323,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ayushk-sinha/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ayushk-sinha/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ayushk-sinha/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
